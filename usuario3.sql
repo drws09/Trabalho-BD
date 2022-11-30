@@ -1,0 +1,10 @@
+-- Não dá
+UPDATE COUNTRY
+SET NAME = 'United States of America' WHERE ID_HOST = 0;
+
+INSERT INTO CITY VALUES
+(500, 'Porto Alegre', 5);
+
+-- Dá
+SELECT * FROM WORLD_CUP;
+SELECT * FROM REFEREE;
