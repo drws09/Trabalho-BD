@@ -1,0 +1,237 @@
+id_Player,Name,Position,Participations,Titles,Games,Wins,Draws,Losses,Goals,Yellow_Cards,Red_Cards,team_id
+0,Ronaldo,Forward,4,2,19,15,1,3,15,2,0,4
+1,Zinedine Zidane,Midfielder,3,1,12,7,4,1,5,4,2,27
+2,Marco Materazzi,Defender,2,1,5,3,1,1,2,0,1,18
+3,Andres Iniesta,Midfielder,4,1,14,8,3,3,2,1,0,9
+4,Mario Gotze,Midfielder,1,1,6,5,1,0,2,0,0,8
+5,Mario Mandzukic,Forward,2,0,8,4,2,2,5,2,0,35
+6,Ivan Perisic,Forward,2,0,10,5,2,3,5,0,0,35
+7,Antoine Griezmann,Forward,2,1,12,9,2,1,4,0,0,27
+8,Paul Pogba,Midfielder,2,1,11,9,1,1,2,2,0,27
+9,Kylian Mbappe,Forward,1,1,7,6,1,0,4,2,0,27
+26,Emmanuel Petit,Midfielder,2,1,7,5,1,1,2,3,0,27
+11,Andreas Brehme,Defender/Midfielder,3,1,16,9,4,3,4,4,0,8
+12,Jose Luis Brown,Defender,1,1,7,6,1,0,1,1,0,14
+25,Jorge Valdano,Forward,2,1,9,7,1,1,4,1,0,14
+14,Jorg Bohme,Midfielder,1,0,0,0,0,0,0,0,0,8
+15,Rudi Voller,Forward,3,1,15,8,4,3,8,3,1,8
+16,Jorge Burruchaga,Midfielder,2,1,14,8,4,2,3,1,0,14
+17,Paolo Rossi,Forward,3,1,14,8,4,2,9,1,0,18
+18,Marco Tardelli,Midfielder,3,1,13,8,4,1,2,3,0,18
+19,Alessandro Altobelli,Forward,2,1,7,4,2,1,5,0,0,18
+20,Paul Breitner,Midfielder,2,1,14,9,2,3,4,0,0,8
+21,Mario Kempes,Forward,3,1,18,8,3,7,6,1,0,14
+22,Dick Nanninga,Forward,1,0,3,0,2,1,1,0,1,20
+23,Daniel Bertoni,Forward,2,1,11,6,1,4,4,1,0,14
+24,Johan Neeskens,Midfielder,2,0,12,7,2,3,5,2,0,20
+13,Gerd Muller,Forward,2,1,13,11,0,2,14,2,0,8
+10,Pele,Forward,4,3,14,12,1,1,12,0,0,4
+27,Roberto Boninsegna,Forward,2,0,7,3,2,2,2,1,0,18
+28,Gerson,Midfielder,2,1,5,4,0,1,1,0,0,4
+29,Jairzinho,Forward,3,1,16,10,2,4,9,2,0,4
+30,Carlos Alberto,Defender,1,1,6,6,0,0,1,0,0,4
+31,Maradona,Midfielder,4,1,21,12,4,5,8,4,1,14
+32,Salvatore Schillaci,Forward,1,0,7,6,1,0,6,0,0,18
+33,Romario,Forward,2,1,8,6,2,0,5,0,0,4
+34,Oliver Kahn,Goalkeeper,4,0,8,6,1,1,0,1,0,8
+35,Diego Forlan,Midfielder,3,0,10,3,3,4,6,1,0,39
+36,Lionel Messi,Forward,4,0,19,12,3,4,6,1,0,14
+37,Luka Modric,Midfielder,3,0,12,5,4,3,2,0,0,35
+38,Falcao,Midfielder,2,0,7,6,0,1,3,1,0,4
+39,Lothar Matthaus,Midfielder,5,1,25,15,6,4,6,5,0,8
+40,Roberto Baggio,Forward,3,0,16,10,5,1,9,1,0,18
+41,Davor Suker,Forward,3,0,8,5,0,3,6,1,0,35
+42,Fabio Cannavaro,Defender,4,1,18,9,7,2,0,4,0,18
+43,Wesley Sneijder,Midfielder,3,0,17,12,3,2,6,2,0,20
+44,Thomas Muller,Forward/Midfielder,3,1,16,12,1,3,10,3,0,8
+45,Eden Hazard,Forward/Midfielder,2,0,11,9,0,2,3,2,0,22
+46,Dirceu,Midfielder/Forward,3,0,12,7,3,2,3,1,0,4
+47,Karl-Heinz Rummenigge,Forward,3,0,19,7,7,5,9,0,0,8
+48,Hristo Stoichkov,Forward,2,0,10,3,2,5,6,3,0,13
+49,Lilian Thuram,Defender,3,1,16,9,5,2,2,0,0,27
+50,Hong Myung-Bo,Defender,4,0,16,3,5,8,2,1,0,10
+51,Andrea Pirlo,Midfielder,3,1,11,6,2,3,1,0,0,18
+52,David Villa,Forward,3,1,12,10,0,2,9,0,0,9
+53,Arjen Robben,Forward,3,0,15,11,2,2,6,4,0,20
+54,Guillermo Stabile,Forward,1,0,4,3,0,1,8,0,0,14
+55,Oldrich Nejedly,Forward,2,0,6,4,1,1,7,0,0,52
+56,Leonidas da Silva,Forward,2,0,5,3,1,1,8,0,0,4
+57,Ademir de Menezes,Forward,1,0,6,4,1,1,9,0,0,4
+58,Sandor Kocsis,Forward,1,0,5,4,0,1,11,0,0,57
+59,Just Fontaine,Forward,1,0,6,4,0,2,13,0,0,27
+60,Vava,Forward,2,2,10,8,2,0,9,0,0,4
+61,Garrincha,Forward,3,2,12,10,1,1,5,0,1,4
+62,Leonel Sanchez,Forward,2,0,9,4,1,4,4,0,0,25
+63,Drazen Jerkovic,Forward,2,0,6,3,0,3,4,0,0,31
+64,Florian Albert,Forward,2,0,7,4,0,3,4,0,0,57
+65,Valentin Ivanov,Midfielder/Forward,2,0,9,4,2,3,5,0,0,6
+66,Eusebio,Forward,1,0,6,5,0,1,9,0,0,44
+67,Grzegorz Lato,Forward,3,0,20,12,4,4,10,0,0,45
+68,Gary Lineker,Forward,2,0,12,5,4,3,10,0,0,33
+69,Oleg Salenko,Forward,1,0,3,1,0,2,6,0,0,6
+70,Miroslav Klose,Forward,4,1,24,17,3,4,16,3,0,8
+71,James Rodriguez,Midfielder,2,0,8,6,0,2,6,2,0,3
+72,Harry Kane,Forward,1,0,6,3,1,2,6,0,0,33
+73,Pedro Cea,Forward,1,1,4,4,0,0,5,0,0,39
+74,Edmund Conen,Forward,1,0,4,3,0,1,4,0,0,8
+75,Angelo Schiavio,Forward,1,1,4,3,1,0,4,0,0,18
+76,Gyorgy Sarosi,Forward/Midfielder,2,0,5,3,0,2,6,0,0,57
+77,Gyula Zsengeller,Forward,1,0,4,3,0,1,5,0,0,57
+78,Silvio Piola,Forward,1,1,4,4,0,0,5,0,0,18
+79,Oscar Miguez,Forward,2,1,7,6,1,0,8,0,0,39
+80,Erich Probst,Forward,1,0,5,4,0,1,6,0,0,26
+81,Sepp Huegi,Forward,1,0,3,2,0,1,6,0,0,1
+82,Max Morlock,Midfielder/Forward,1,1,5,5,0,0,6,0,0,8
+83,Helmut Rahn,Forward,2,1,10,5,2,3,10,0,0,8
+84,Helmut Haller,Forward/Midfielder,3,0,9,5,2,2,6,0,0,8
+85,Andrzej Szarmach,Forward,3,0,13,9,2,2,7,1,0,45
+86,Teofilo Cubillas,Midfielder/Forward,3,0,13,4,3,6,10,0,0,56
+87,Careca,Forward,2,0,9,7,1,1,7,1,0,4
+88,Emilio Butragueno,Forward,2,0,9,5,2,2,5,0,0,9
+89,Tomas Skuhravy,Forward,1,0,5,3,0,2,5,1,0,52
+90,Gabriel Omar Batistuta,Forward,3,0,12,6,2,4,10,2,0,14
+91,Christian Vieri,Forward,2,0,9,4,3,2,9,1,0,18
+92,Rivaldo,Midfielder/Forward,2,1,14,11,1,2,8,0,0,4
+93,Hernan Crespo,Forward,3,0,8,4,3,1,4,1,0,14
+94,Bert Patenaude,Forward,1,0,3,2,0,1,3,0,0,2
+95,Estanislao Basora,Forward,1,0,6,3,1,2,4,0,0,9
+96,Valeriy Porkuyan,Forward,2,0,3,2,0,1,4,0,0,6
+97,Franz Beckenbauer,Defender,3,1,18,14,1,3,5,2,0,8
+98,Ferenc Bene,Forward,1,0,4,2,0,2,4,0,0,57
+99,Geoff Hurst,Forward,2,1,6,4,0,2,5,0,0,33
+100,Rob Rensenbrink,Forward,2,0,13,8,2,3,6,0,0,20
+101,Zico,Midfielder,3,0,14,9,4,1,5,1,0,4
+102,Roger Milla,Forward,3,0,10,3,3,4,5,3,0,7
+103,Kennet Andersson,Forward,1,0,7,3,3,1,5,2,0,5
+104,Neymar,Forward/Midfielder,2,0,10,6,3,1,6,2,0,4
+105,Romelu Lukaku,Forward,2,0,10,8,0,2,5,0,0,22
+106,Wladyslaw Zmuda,Defender,4,0,21,12,4,5,0,1,0,45
+107,Antonio Cabrini,Defender/Midfielder,3,1,18,9,6,3,1,2,0,18
+108,Manuel Amoros,Defender,2,0,12,6,4,2,1,3,0,27
+109,Enzo Scifo,Midfielder,4,0,17,6,4,7,3,1,0,22
+110,Robert Prosinecki,Midfielder,3,0,9,4,1,4,3,1,0,35
+111,Marc Overmars,Forward,2,0,11,6,2,3,1,0,0,20
+112,Michael Owen,Forward,3,0,12,6,4,2,4,0,0,33
+113,Landon Donovan,Forward,3,0,12,3,4,5,5,0,0,2
+114,Lukas Podolski,Forward,3,1,15,11,1,3,5,1,0,8
+115,Hasan Sas,Forward,1,0,6,3,1,2,2,2,0,37
+116,Roberto Carlos,Defender,3,1,17,13,1,3,1,2,0,4
+117,Ronaldinho Gaucho,Midfielder,2,1,10,9,0,1,2,1,1,4
+118,Edmilson,Defender,1,1,6,6,0,0,1,0,0,4
+119,Paulo Wanchope,Forward,2,0,6,1,1,4,3,0,0,42
+120,Ronald Gomez,Forward,2,0,6,1,1,4,3,2,0,42
+121,Junior,Defender/Midfielder,1,1,1,1,0,0,1,0,0,4
+122,Michael Ballack,Midfielder,2,0,11,8,2,1,3,4,0,8
+123,Carsten Jancker,Forward,1,0,3,2,1,0,1,1,0,8
+124,Thomas Linke,Defender,1,0,7,5,1,1,1,0,0,8
+125,Oliver Bierhoff,Forward,2,0,10,6,2,2,4,0,0,8
+126,Bernd Schneider,Midfielder,2,0,14,10,2,2,1,1,0,8
+127,Robbie Keane,Forward,1,0,4,1,3,0,3,0,0,17
+128,Marco Bode,Forward/Midfielder,1,0,6,4,1,1,1,0,0,8
+129,Oliver Neuville,Forward,2,0,13,10,1,2,2,1,0,8
+130,Hakan Sukur,Forward,1,0,7,4,1,2,1,1,0,41
+131,Lee Eul-Yong,Midfielder,2,0,6,2,3,1,1,1,0,10
+132,Ilhan Mansiz,Forward,1,0,7,4,1,2,3,1,0,41
+133,Song Chong-Gug,Defender/Midfielder,2,0,8,4,2,2,1,1,0,10
+134,Bastian Schweinsteiger,Midfielder,3,1,20,15,2,3,2,4,0,8
+135,Nuno Gomes,Forward,2,0,4,1,0,3,1,1,0,44
+136,Petit,Midfielder,2,0,9,5,1,3,0,3,0,44
+137,Vicenzo Iaquinta,Forward,2,1,8,3,4,1,2,1,0,18
+138,Alberto Gilardino,Forward,2,1,7,4,3,0,1,0,0,18
+139,Cristian Zaccardo,Defender,1,1,3,2,1,0,0,0,0,18
+140,Filippo Inzaghi,Forward,3,1,5,2,2,1,1,0,0,18
+141,Francesco Totti,Forward/Midfielder,2,1,11,6,3,2,1,4,0,18
+142,Gianluca Zambrotta,Defender/Midfielder,3,1,13,5,5,3,1,4,0,18
+143,Luca Toni,Forward,1,1,6,4,2,0,2,0,0,18
+144,Michel Preudhomme,Goalkeeper,2,0,8,4,0,4,0,0,0,22
+145,Fabien Barthez,Goalkeeper,3,1,17,10,5,2,0,0,0,27
+146,Gianluigi Buffon,Goalkeeper,5,1,14,6,4,4,0,0,0,18
+147,Iker Casillas,Goalkeeper,4,1,17,11,2,4,0,1,0,9
+148,Manuel Neuer,Goalkeeper,3,1,16,11,1,4,0,0,0,8
+149,Thibaut Courtouis,Goalkeeper,2,0,12,10,0,2,0,0,0,22
+150,Marcos,Goalkeeper,1,1,7,7,0,0,0,0,0,4
+151,Lucio,Defender,3,1,17,14,1,2,0,1,0,4
+152,Roque Junior,Defender,1,1,6,6,0,0,0,2,0,4
+153,Cafu,Defender/Midfielder,4,2,20,16,1,3,0,6,0,4
+154,Gilberto Silva,Midfielder/Defender,3,1,16,13,1,2,0,1,0,4
+155,Kleberson,Midfielder,2,1,6,6,0,0,0,0,0,4
+156,Juninho Paulista,Midfielder,1,1,5,5,0,0,0,0,0,4
+157,Denilson,Forward,2,1,12,9,1,2,0,1,0,4
+158,Christoph Metzelder,Defender,2,0,13,9,2,2,0,2,0,8
+159,Carsten Ramelow,Midfielder/Defender,1,0,5,3,1,1,0,2,0,8
+160,Torsten Frings,Midfielder,2,0,13,10,2,1,1,3,0,8
+161,Dietmar Hamann,Midfielder,2,0,11,7,2,2,0,4,0,8
+162,Jens Jeremies,Midfielder/Defender,2,0,10,6,2,2,0,2,0,8
+163,Gerald Asamoah,Forward,2,0,4,3,0,1,0,0,0,8
+164,Christian Ziege,Midfielder/Defender,2,0,9,6,2,1,0,2,0,8
+165,Thierry Henry,Forward,4,1,17,9,6,2,6,0,1,27
+166,Park Ji-Sung,Midfielder,3,0,14,5,4,5,3,1,0,10
+167,Patrick Vieira,Midfielder,3,1,12,6,4,2,2,2,0,27
+168,Franck Ribery,Forward/Midfielder,2,0,10,4,4,2,1,2,0,27
+169,Martin Peters,Midfielder,2,1,9,7,0,2,2,1,0,33
+170,Wolfgang Weber,Defender,2,0,8,6,1,1,1,0,0,8
+171,Josef Masopust,Midfielder,2,0,10,4,2,4,1,0,0,52
+172,Amarildo,Forward,1,1,4,4,0,0,3,0,0,4
+173,Zito,Midfielder,3,2,10,9,1,0,1,0,0,4
+174,Nils Liedholm,Midfielder,1,0,6,4,1,1,2,0,0,5
+175,Zagallo,Forward,2,2,12,10,2,0,2,0,0,4
+176,Agne Simonsson,Forward,1,0,5,4,0,1,4,0,0,5
+177,Ferenc Puskas,Forward,2,0,6,3,0,3,4,0,0,57
+178,Zoltan Czibor,Forward,1,0,5,4,0,1,3,0,0,57
+179,Friaca,Forward,1,0,4,2,1,1,1,0,0,4
+180,Juan Schiaffino,Midfielder/Forward,2,1,9,6,1,2,5,0,0,39
+181,Alcides Ghiggia,Forward,1,1,4,3,1,0,4,0,0,39
+182,Gino Colaussi,Forward,1,1,3,3,0,0,4,0,0,18
+183,Pal Titkos,Forward,1,0,2,1,0,1,1,0,0,57
+184,Antonin Puc,Forward,2,0,6,4,1,1,2,0,0,52
+185,Raimundo Orsi,Forward,1,1,5,4,1,0,3,0,0,18
+186,Pablo Dorado,Forward,1,1,3,3,0,0,2,0,0,39
+187,Carlos Peucelle,Midfielder,1,0,4,3,0,1,3,0,0,14
+188,Santos Iriarte,Forward,1,1,4,4,0,0,2,0,0,39
+189,Hector Castro,Forward,1,1,2,2,0,0,2,0,0,39
+190,Roberto Ayala,Defender,3,0,10,6,3,1,1,1,0,14
+191,Rafa Marquez,Defender/Midfielder,5,0,19,8,4,7,3,5,1,16
+192,Maxi Rodriguez,Forward/Midfielder,3,0,12,8,3,1,3,1,0,14
+193,Fernando Morientes,Forward,2,0,7,4,3,0,5,1,0,9
+194,Seol Ki-Hyeon,Forward,2,0,9,3,3,3,1,1,0,10
+195,Ahn Jung-Hwan,Forward,3,0,10,4,3,3,3,1,0,10
+196,Henrik Larsson,Forward,3,0,13,4,7,2,5,2,0,5
+197,Henri Camara,Forward,1,0,4,1,2,1,2,1,0,38
+198,Patrick Kluivert,Forward,1,0,4,1,2,1,2,0,1,20
+199,Alan Shearer,Forward,1,0,4,2,1,1,2,1,0,33
+200,Javier Zanetti,Defender,2,0,8,4,2,2,1,0,0,14
+201,Laurent Blanc,Defender,1,1,5,4,1,0,1,1,1,27
+202,Tomas Brolin,Midfielder/ Forward,2,0,10,3,3,4,4,1,0,5
+203,Florin Raducioiu,Forward,2,0,7,3,2,2,4,2,0,0
+204,Alberto Garcia Aspe,Midfielder,3,0,8,2,4,2,2,4,0,16
+205,Emmanuel Amunike,Forward,1,0,4,2,0,2,2,1,0,12
+206,Claudio Paul Caniggia,Forward,3,0,9,4,3,2,4,3,1,14
+207,Carlos Gamarra,Defender,3,0,11,3,3,5,0,0,0,30
+208,Brent Sancho,Defender,1,0,3,0,1,2,0,1,0,47
+209,Nelson Cuevas,Forward,2,0,4,2,0,2,3,0,0,30
+210,Carles Puyol,Defender,3,1,14,10,2,2,1,3,0,9
+211,Jeff Agoos,Defender,2,0,3,1,1,1,0,1,0,2
+212,Jorge Costa,Defender,1,0,3,1,0,2,0,2,0,44
+213,Georgi Bachev,Midfielder/Forward,1,0,2,0,0,2,0,1,0,13
+214,Sinisa Mihaijlovic,Defender,1,0,4,2,1,1,1,0,0,31
+215,Andoni Zubizarreta,Goalkeeper,4,0,16,8,4,4,0,0,0,9
+216,Pierre Issa,Defender,2,0,4,0,3,1,0,2,0,29
+217,Youssef Chippo,Midfielder,1,0,3,1,1,1,0,1,0,23
+218,Tom Boyd,Defender,1,0,3,0,1,2,0,0,0,24
+219,Daniel Agger,Defender,1,0,3,1,0,2,0,0,0,28
+220,Park Chu-Young,Forward,3,0,7,1,2,4,1,1,0,10
+221,Dida,Goalkeeper,3,1,5,4,0,1,0,0,0,4
+222,Rogerio Ceni,Goalkeeper,2,1,1,1,0,0,0,0,0,4
+223,Belletti,Defender,1,1,1,1,0,0,0,0,0,4
+224,Anderson Polga,Defender,1,1,2,2,0,0,0,0,0,4
+225,Ricardinho,Midfielder,2,1,5,5,0,0,0,0,0,4
+226,Vampeta,Midfielder,1,1,1,1,0,0,0,0,0,4
+227,Kaka,Midfielder,3,1,10,8,0,2,1,3,0,4
+228,Edilson,Forward,1,1,4,4,0,0,0,0,0,4
+229,Luizao,Forward,1,1,2,2,0,0,0,0,0,4
+230,Jens Lehmann,Goalkeeper,3,0,6,4,1,1,0,0,0,8
+231,Hans-Jorg Butt,Goalkeeper,2,0,1,1,0,0,0,0,0,8
+232,Marko Rehmer,Defender,1,0,1,1,0,0,0,0,0,8
+233,Frank Baumann,Defender/Midfielder,1,0,1,1,0,0,0,1,0,8
+234,Sebastian Kehl,Midfielder,2,0,6,5,0,1,0,1,0,8
+235,Lars Ricken,Midfielder,1,0,0,0,0,0,0,0,0,8

@@ -1,0 +1,70 @@
+id_Stadium,Name,Capacity,city_id
+0,Olympiastadion,72000,0
+1,Allianz Arena,66000,1
+2,Signal Iduna Park,65000,2
+3,Gottlieb-Daimler-Stadion,52000,3
+4,Arena AufSchalke,52000,4
+5,AOL Arena,50000,5
+6,Commerzbank-Arena,48000,6
+7,Fritz-Walter-Stadion,46000,7
+8,RheinEnergieStadion,45000,8
+9,AWD-Arena,43000,9
+10,Zentralstadion,43000,10
+11,easyCredit-Stadion,41000,11
+12,Deagu World Cup Stadium,68014,12
+13,Seoul World Cup Stadium,63961,13
+14,Busan Asiad Stadium,55982,14
+15,Incheon World Cup Stadium,52179,15
+16,Ulsan Munsu Football Stadium,43550,16
+17,Suwon World Cup Stadium,43188,17
+18,Gwangju World Cup Stadium,42880,18
+19,Jeonju World Cup Stadium,42391,19
+20,Jeju World Cup Stadium,42256,20
+21,Daejeon World Cup Stadium,40407,21
+22,International Stadium Yokohama,72327,22
+23,Saitama Stadium,63000,23
+24,Shizuoka Stadium ECOPA,50600,24
+25,Nagai Stadium,50000,25
+26,Miyagi Stadium,49000,26
+27,Oita Stadium,43000,27
+28,Niigata Stadium,42300,28
+29,Kashima Stadium,42000,29
+30,Kobe Wing Stadium,42000,30
+31,Sapporo Dome,42000,31
+32,Stade de France,80000,32
+33,Stade Velodrome,60000,33
+34,Parc des Princes,48875,34
+35,Stade de Gerland,44000,35
+36,Stade Felix-Bollaert,41300,36
+37,Stade de la Beaujoire,39500,37
+38,Stadium de Toulouse,37000,38
+39,Stade Geoffroy-Guichard,36000,39
+40,Parc Lescure,35200,40
+41,Stade de la Mosson,34000,41
+42,Rose Bowl,94194,42
+43,Stanford Stadium,84147,43
+44,Pontiac Silverdome,77557,44
+45,Giants Stadium,76322,45
+46,Cotton Bowl,64000,46
+47,Soldier Field,63160,47
+48,Citrus Bowl,62387,48
+49,Foxboro Stadium,54456,49
+50,Robert F. Kennedy Memorial Stadium,53121,50
+51,Soccer City,84490,51
+52,Maracana,74738,52
+53,Luzhniki Stadium,78011,53
+54,Stadio Olimpico,73603,54
+55,Estadio Azteca,114600,55
+56,Santiago Bernabeu,90089,56
+57,Estadio Monumental,74624,57
+58,Olympiastadion,77573,1
+59,Wembley Stadium,98600,58
+60,Estadio Nacional,66660,59
+61,Rasunda Stadium,52400,60
+62,Wankdorf Stadium,64600,61
+63,Stade Olympique de Colombes,60000,62
+64,Stadio Nazionale PNF,47300,54
+65,Estadio Centenario,90000,63
+66,Stadio delle Alpi,69041,64
+67,Stadio San Paolo,60240,65
+68,Stadio Comunale di Firenze,47282,66

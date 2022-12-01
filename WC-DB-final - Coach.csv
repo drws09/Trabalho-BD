@@ -1,0 +1,88 @@
+id_Coach,Name,Nationality,Participations,Titles,Games,Wins,Draws,Losses,Goals_Scored,Goals_Against
+0,Rudi Voller,Germany,1,0,7,5,1,1,14,3
+1,Luis Felipe Scolari,Brazil,3,1,21,14,3,4,36,23
+2,Marcello Lippi,Italy,2,1,10,5,4,1,16,7
+3,Raymond Domenech,France,2,0,10,4,4,2,10,7
+4,Bert van Marwijk,Netherlands,2,0,10,6,1,3,14,11
+5,Vicente del Bosque,Spain,2,1,10,7,0,3,12,9
+6,Joachim Low,Germany,3,1,17,12,1,4,36,13
+7,Alejandro Sabella,Argentina,1,0,7,5,1,1,8,4
+8,Didier Deschamps,France,2,1,12,9,2,1,24,9
+9,Zlatko Dalic,Croatia,1,0,7,4,2,1,14,9
+13,Maio Jorge Lobo Zagallo,Brazil,3,1,20,13,3,4,39,21
+11,Aime Jaquet,France,1,1,7,6,1,0,15,2
+12,Carlos Alberto Parreira,Brazil,6,1,23,10,4,9,28,32
+10,Arrigo Sacchi,Italy,1,0,7,4,2,1,8,5
+14,Franz Beckenbauer,Germany,2,1,14,8,4,2,23,12
+15,Carlos Bilardo,Argentina,2,1,14,8,4,2,19,9
+16,Enzo Bearzot,Italy,3,1,17,9,5,3,26,18
+17,Jupp Derwall,Germany,1,0,7,3,2,2,12,10
+18,Cesar Luis Menotti,Argentina,3,1,17,7,3,7,28,22
+19,Ernst Happel,Austria,1,0,7,3,2,2,15,10
+20,Rinus Michels,Netherlands,1,0,7,5,1,1,15,3
+21,Helmut Schon,Germany,4,1,19,14,1,4,51,23
+22,Ferruccio Valcareggi,Italy,3,0,10,4,3,3,15,13
+23,Alf Ramsey,England,2,1,10,7,1,2,15,7
+24,Aymore Moreira,Brazil,1,1,6,5,1,0,14,5
+25,Rudolf Vytlacil,Czech Republic,2,0,9,3,1,5,8,15
+26,Vicente Feola,Brazil,1,1,6,5,1,0,16,4
+27,George Raynor,England,2,0,10,5,2,3,20,21
+28,Sepp Herberger,Germany,4,1,10,6,1,3,26,20
+29,Gusztav Sebes,Hungary,1,0,5,4,0,1,27,10
+30,Juan Lopez,Uruguay,2,1,9,6,1,2,31,14
+31,Flavio Costa,Brazil,1,0,6,4,1,1,22,6
+32,Vittorio Pozzo,Italy,2,2,9,8,1,0,23,8
+33,Karoly Dietz,Hungary,1,0,4,3,0,1,15,5
+34,Karel Petru,Czech Republic,1,0,4,3,0,1,9,6
+35,Alberto Suppici,Uruguay,1,1,4,4,0,0,15,3
+36,Francisco Olazar,Argentina,1,0,5,4,0,1,18,9
+37,Senol Gunes,Turkey,1,0,7,4,1,2,10,6
+38,Bora Milutinovic,Serbia,5,0,20,8,3,9,19,30
+39,Alexandre Guimaraes,Costa Rica,2,0,6,1,1,4,8,15
+40,Robert Waseige,Belgium,1,0,4,1,2,1,6,7
+41,Sven-Goran Eriksson,Sweden,3,0,13,6,5,2,16,8
+42,Nasser Al-Johar,Saudi Arabia,1,0,3,0,0,3,0,12
+43,Mick McCarthy,Ireland,1,0,4,1,3,0,6,3
+44,Winfried Schafer,Germany,1,0,3,1,1,1,2,3
+45,Cesare Maldini,Italy,2,0,9,4,3,2,14,10
+46,Bruce Arena,United States of America,2,0,8,2,2,4,9,13
+47,Guus Hiddink,Netherlands,3,0,18,7,6,5,26,19
+48,Jurgen Klinsmann,Germany,2,0,11,6,2,3,19,12
+49,Ratomir Dujkovic,Serbia,1,0,4,2,0,2,4,6
+50,Karel Bruckner,Czech Republic,1,0,3,1,0,2,3,4
+51,Oleg Blokhin,Ukraine,1,0,5,2,1,2,5,7
+52,Kobi Kuhn,Switzerland,1,0,4,2,2,0,4,0
+53,Dick Advocaat,Netherlands,2,0,8,4,1,3,11,10
+54,Otto Pfister,Germany,1,0,3,0,0,3,1,6
+55,Luis Aragones,Spain,1,0,4,3,0,1,9,4
+56,Jose Pekerman,Argentina,3,0,14,9,3,2,29,10
+57,Ricardo La Volpe,Argentina,1,0,4,1,1,2,5,5
+58,Jose Antonio Camacho,Spain,1,0,5,3,2,0,10,5
+59,Bruno Metsu,France,1,0,5,2,2,1,7,6
+60,Giovanni Trapattoni,Italy,1,0,4,1,1,2,5,5
+61,Tommy Soderberg,Sweden,1,0,4,1,2,1,5,5
+62,Daniel Passarella,Argentina,1,0,5,3,1,1,10,4
+63,Glenn Hoddle,England,1,0,4,2,1,1,7,4
+64,Paulo Cesar Carpegiani,Brazil,1,0,4,1,2,1,3,2
+65,Tommy Svensson,Sweden,1,0,7,3,3,1,15,8
+66,Anghel Iordanescu,Romania,2,0,9,5,2,2,14,12
+67,Miguel Mejia Baron,Mexico,1,0,4,1,2,1,4,4
+68,Dimitar Penev,Bulgaria,1,0,7,3,1,3,10,11
+69,Clemens Westerhof,Netherlands,1,0,4,2,0,2,7,4
+70,Bobby Robson,England,2,0,12,5,4,3,15,9
+71,Azeglio Vicini,Italy,1,0,7,6,1,0,10,2
+72,Ivica Osim,Bosnia and Herzegovina,1,0,5,3,1,1,8,6
+73,Anibal Ruiz,Uruguay,1,0,3,1,0,2,2,2
+74,Leo Beenhakker,Netherlands,2,0,7,0,4,3,3,8
+75,Javier Clemente,Spain,2,0,8,3,3,2,18,10
+76,Hristo Bonev,Bulgaria,1,0,3,0,1,2,1,7
+77,Berti Vogts,Germany,2,0,10,6,2,2,17,13
+78,Slobodan Sontrac,Yugoslavia,1,0,4,2,1,1,5,4
+79,Philippe Troussier,France,2,0,7,2,3,2,8,9
+80,Henri Michel,France,5,0,19,6,5,8,26,33
+81,Egil Olsen,Norway,2,0,7,2,3,2,6,6
+82,Craig Brown,Scotland,1,0,3,0,1,2,2,6
+83,Antonio Oliveira,Portugal,1,0,3,1,0,2,6,4
+84,Morten Olsen,Denmark,2,0,7,3,1,3,8,11
+85,Diego Maradona,Argentina,1,0,5,4,0,1,10,6
+86,Huh Jung-Moo,South Korea,1,0,4,1,1,2,6,8
