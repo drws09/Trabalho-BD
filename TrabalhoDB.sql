@@ -359,7 +359,7 @@ LIMIT 30;
 
 
 
--- c - Os jogadores que receberam cartões amarelos /ALTERAR NA DOCUMENTAÇÃO/
+-- c - Os jogadores que receberam cartões amarelos
 SELECT `NAME`, YELLOW_CARDS FROM PLAYER
 WHERE YELLOW_CARDS > 0
 ORDER BY YELLOW_CARDS DESC;
@@ -385,7 +385,7 @@ LIMIT 30;
 
 -- a Número de títulos dos treinadores por nacionalidade
 SELECT NATIONALITY AS Country, SUM(TITLES) AS `Number of Titles` FROM COACH
-GROUP BY NATIONALITY
+GROUP BY NATIONALITY HAVING `Number of Titles` > 0
 ORDER BY `Number of Titles` DESC;
 
 /* Esse quebrou quando tirei as colunas da tabela team, vou tentar arrumar outro dia.
